@@ -19,7 +19,7 @@ public class loginWhats1 {
 
 
     @BeforeTest
-    public void open (){
+    public void open {
 
 
         String chromePath = System.getProperty("user.dir") + "\\src\\main\\resources\\chromedriver.exe";
